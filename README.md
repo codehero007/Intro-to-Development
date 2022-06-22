@@ -1,2 +1,2 @@
-# intro-to-development
+# Intro to Development
 Introduction to Development: C#
