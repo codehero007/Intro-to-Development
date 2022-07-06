@@ -1,2 +1,2 @@
 # Courses
-1) Introduction to Development: C#, JavScript, HTML, CSS
+1) Introduction to Development: C#, HTML, CSS, JavScript
